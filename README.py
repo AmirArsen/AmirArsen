@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # توکن ربات خود را اینجا قرار دهید
-TOKEN = '7357770137:AAFkxR7wPnGyfoM-Y2aEncUdSv8Xmom7_do'
+TOKEN ='
 bot = telebot.TeleBot(TOKEN)
 
 # متغیر برای ذخیره اطلاعات کاربر
